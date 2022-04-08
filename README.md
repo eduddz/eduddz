@@ -1,4 +1,4 @@
-### Oi pessoaaaal, tudo bem? 👋👋�
+### Oi pessoaaaal, tudo bem? 👋👋
 
 ![Layout Portfolio](https://github.com/eduddz/portfolio-nextjs/blob/main/pages/src/images/layout.png?raw=true)
 ### Para acessar meu portfólio: https://eduardoesteves.vercel.app
